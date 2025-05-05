@@ -20,6 +20,14 @@ Clone the repository:  git clone https://github.com/timdvd/cat_energy_website.gi
 https://timdvd.github.io/cat_energy_website/
 
 ## Screenshots:
+### Home Page
 ![Desktop](https://github.com/user-attachments/assets/852ccdd9-837f-43da-b5f5-f5bba2b2cf1b)
-![Mobile](https://github.com/user-attachments/assets/a97e27de-4dfb-4dc1-a8ac-352fc68ef722)
 ![Tablet](https://github.com/user-attachments/assets/ba4b2e10-d42f-48ac-8158-7f1744762a4a)
+
+### Catalog Page
+![Desktop](https://github.com/user-attachments/assets/593d24b5-6059-49c5-bd9c-7c054147dd91)
+![Tablet](https://github.com/user-attachments/assets/cad9c0a7-19d5-4984-a783-ee033085bb7b)
+
+### Program Form Page
+![Desktop](https://github.com/user-attachments/assets/aab2819f-0ac3-4abe-bb54-371b8fd26cf7)
+![Tablet](https://github.com/user-attachments/assets/558d0314-fdf5-4cea-8d76-176ab7777051)
